@@ -4,7 +4,7 @@ tic
 close all
 
 %% Parameters
-MC_Times = 3; % Monte Carlo simulation times
+MC_Times = 1E6; % Monte Carlo simulation times
 
 % 0- Scenario
 Tx_PW_dBm = 23;
